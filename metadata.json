@@ -1,0 +1,8 @@
+{
+  "name": "Evenia",
+  "description": "A comprehensive, brutalist-styled Event Management System featuring registration builders, QR check-ins, simulated payment workflows, certificate downloads, and AI-powered event generation and support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
